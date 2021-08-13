@@ -23,3 +23,6 @@ So that I can see a live score of the match with the selected team
 I would like to receive a text such as "F.C. Inter vs. Juventus F.C. 1 - 0"
 every time one of the two teams scores a goal
 ```
+Football Live Scores Sequence Diagram
+-----
+![screenshot](./images/footballLS_sequence.png)
