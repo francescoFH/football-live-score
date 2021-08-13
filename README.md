@@ -25,4 +25,5 @@ every time one of the two teams scores a goal
 ```
 Football Live Scores Sequence Diagram
 -----
-![screenshot](./images/footballLS_sequence.png)
+
+<img src="https://github.com/francescoFH/football-live-score/blob/main/images/footballLS_sequence.png" width="300">
